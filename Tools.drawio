@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T12:54:37.246Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" version="24.3.1" etag="81gW3NFpC-6_lwD-37DK" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-09T12:56:10.877Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="xvZFn1fvfDK9Jn9a88KV" version="24.3.1" type="github">
   <diagram name="Page-1" id="8j3W_qDydUsUUFMx35oo">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jnwht9hxHKNwCcqdQKuF-1" value="CLI" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="70" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jnwht9hxHKNwCcqdQKuF-2" value="Frontend" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="70" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jnwht9hxHKNwCcqdQKuF-3" value="Backend" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="70" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
